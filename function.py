@@ -1,3 +1,4 @@
+#function
 Filepath="todos.txt"
 def get(filepath=Filepath):
     with open(filepath, 'r') as file:
